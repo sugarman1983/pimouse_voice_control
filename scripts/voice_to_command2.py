@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#encoding: utf8
 import rospy, os, socket
 
 class JuliusReceiver:
